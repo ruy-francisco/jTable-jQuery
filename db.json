@@ -1,5 +1,6 @@
 {
-    "people": [
+    "Result": "OK",
+    "Records": [
         {
             "personId": 1,
             "name": "Benjamin Button",
